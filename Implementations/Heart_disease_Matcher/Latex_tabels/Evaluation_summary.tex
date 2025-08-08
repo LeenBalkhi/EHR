@@ -1,0 +1,17 @@
+\begin{tabular}{lllrrrr}
+\toprule
+case & matchers & Combiner & threshold & precision & recall & f1_score \\
+\midrule
+Case 1 & semantic + LCMS + Jaccard + word2vec & Weighted Avg & 0.600 & 0.750 & 0.857 & 0.800 \\
+Case 2 & semantic + LCMS + word2vec & Weighted Avg & 0.600 & 0.750 & 0.857 & 0.800 \\
+Case 3 & semantic + Jaccard & Weighted Avg & 0.600 & 1.000 & 0.571 & 0.727 \\
+Case 4 & semantic + LCMS & Weighted Avg & 0.600 & 1.000 & 0.571 & 0.727 \\
+Case 5 & semantic + LCMS & Avg & 0.600 & 0.750 & 0.429 & 0.545 \\
+Case 6 & Jaccard + word2vec & Avg & 0.400 & 0.097 & 0.857 & 0.174 \\
+Case 7 & semantic + LCMS + Jaccard + word2vec & Avg & 0.100 & 0.714 & 0.714 & 0.714 \\
+Case 8 & semantic + Jaccard & Max & 0.600 & 1.000 & 0.571 & 0.727 \\
+Case 9 & LCMS + word2vec & Max & 0.960 & 1.000 & 0.429 & 0.600 \\
+Case 10 & semantic + LCMS + Jaccard + word2vec & MAX & 0.900 & 0.227 & 0.714 & 0.345 \\
+Case 11 & semantic + LCMS & HADAPT & 0.400 & 0.857 & 0.857 & 0.857 \\
+\bottomrule
+\end{tabular}

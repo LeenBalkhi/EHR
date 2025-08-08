@@ -1,0 +1,13 @@
+mediated_column,source_column,similarity_score
+Patient_identfication_number,patient_id,0.4508929
+First_Last_Names,restecg,0.4270270
+Age,age,1.0000000
+Patient_gender,patient_id,0.4857143
+diabetes,target,0.2727273
+heart_disease_status,target,0.5112285
+Systolic_BP,cp,0.3043478
+Diaolistic_BP,cp,0.2857143
+bmi,name,0.1666667
+cholesterol,chol,0.3636364
+smoker,smoke,0.8333333
+medications,trestbps,0.1875000

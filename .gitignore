@@ -1,0 +1,5 @@
+.venv
+Implementations/Models/*.bin
+Implementations/Models/*.bin.*
+Implementations/Models/GoogleNews-vectors-negative300.bin
+Implementations/__pycache__/word2vec.cpython-311.pyc

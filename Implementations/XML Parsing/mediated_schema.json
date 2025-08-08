@@ -1,0 +1,27 @@
+{
+  "mediatedSchema": [
+    "movie"
+  ],
+  "movie": [
+    "title",
+    "book"
+  ],
+  "title": [],
+  "book": [
+    "publicationHouse",
+    "DOI",
+    "title"
+  ],
+  "DOI": [],
+  "publicationHouse": [
+    "location"
+  ],
+  "location": [
+    "city",
+    "address",
+    "country"
+  ],
+  "address": [],
+  "city": [],
+  "country": []
+}

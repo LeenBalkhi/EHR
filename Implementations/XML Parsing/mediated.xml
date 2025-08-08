@@ -1,0 +1,16 @@
+<mediatedSchema>
+  <movie>
+    <title>The Shawshank Redemption</title>
+    <book>
+      <title>Rita Hayworth and Shawshank Redemption</title>
+      <DOI>DOI123</DOI>
+      <publicationHouse>
+        <location>
+          <address>123 Main Street</address>
+          <city>Cityville</city>
+          <country>Countryland</country>
+        </location>
+      </publicationHouse>
+    </book>
+  </movie>
+</mediatedSchema>

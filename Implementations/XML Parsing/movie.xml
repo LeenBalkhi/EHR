@@ -1,0 +1,32 @@
+<movie>
+  <title>The Adventure Begins</title>
+  <director>
+    <firstName>Emma</firstName>
+    <lastName>Johnson</lastName>
+  </director>
+  <genre>Adventure</genre>
+  <releaseYear>2023</releaseYear>
+  <actors>
+    <actor>
+      <actorName>Oliver Smith</actorName>
+      <characterName>Jack Peterson</characterName>
+    </actor>
+  </actors>
+  <ratings>
+    <rating>
+      <critic>John Davis</critic>
+      <score>7.5</score>
+    </rating>
+  </ratings>  
+  <book>
+    <title>The Secret Key</title>
+    <DOI>ABC123</DOI>
+  </book>
+  <ShootLocation>
+    <address>456 Elm Street</address>
+    <city>Metropolis</city>
+    <country>Atlantis</country>
+    <latitude>37.1234</latitude>
+    <longitude>-122.5678</longitude>
+  </ShootLocation>
+</movie>

@@ -1,0 +1,13 @@
+Mediated_Column,Source_Column,Score
+Patient_identfication_number,patient_id,0.7869230508804321
+First_Last_Names,name,0.45005935430526733
+Age,age,0.9354785680770874
+Patient_gender,sex,0.6976708173751831
+diabetes,diuretic,0.4638580083847046
+heart_disease_status,ekgday,0.4716973304748535
+Systolic_BP,patient_id,0.36361128091812134
+Diaolistic_BP,diuretic,0.4621908664703369
+bmi,sex,0.3245703876018524
+cholesterol,chol,0.44725310802459717
+smoker,smoke,0.6341925859451294
+medications,diuretic,0.4794556498527527

@@ -1,0 +1,74 @@
+1. What is the average systolic blood pressure of patients with diabetes
+    (Systolic blood pressure from framingham dataset ad diabetes from brfss2015 dataset)
+
+EHR (avg_bp) = diabetes( Patient_id, diabetes_binary), framingham(Patient_id, SysBP) diabetes_binary =1, aggregate(avg(Sysbp))
+
+
+2. who are the patients that have both diabetes and a heart disease?
+    (brfss2015 and Heart disease)
+
+EHR(Patient_id, name) = diabetes(Patient_id, name, diabetes_binary), heart(Patient_id, name, target),  target =1
+
+
+3. Find patients who are both diabetic and have a bmi exceeding 30
+    (brfss2015 and Framingham)
+
+EHR(Patient_id, name) = diabetes(Patient_id, name, diabetes_binary), framingham (Patient_id, name, BMI),  BMI >30
+
+
+4. what is the percenatge of diabetic patient who have had their cholestroal checked?
+    (brfss2015, framingham and heart)
+
+EHR(perc_dia_pati) = diabetes(Patient_id, name, diabetes_binary), framingham (Patient_id, name, totchol), heart(Patient_id, name, chol), totlchol is not "NA", and chol is not "-9""
+
+5. What is the average BMI among patient who are over 60 years old and have a systolic blood pressure over 140?
+    (framingham)
+EHR (avg_bmi) = framingham (bmi, age, SysBP), age >60 and SysBP < 140
+
+6. what is the avergae BMI of patients with heart diseases compared to healthier ones (no heart daignoses)?
+    (framingham and heart)
+
+EHR (avg_bmi) = framingham (Patient_id, bmi), heart(Patient_id, target)
+
+7. How many patients have high cholestrol > 240, are younger than 40 but have no diagnosed heart disease
+    (Heart)
+EHR(Patient_id) = heart(Patient_id, chol, age, target), chol > 240, age < 40, target =0 
+
+8. what patients have diabetes, are current smokers but are not on blood pressure medication?
+    (diabetes, framingham, heart)
+EHR(Patient_id, name) = diabetes(Patient_id, name, diabetes_binary), framingham(Patient_id, name, currentSmoker, BPMeds),  diabetes_binary = 1, currentSmoker = 1, BPMeds = 0
+
+9. find all patients with a systolic blood pressure > 140 and diastolic blood pressure > 90
+    (Farmingham)
+EHR(Patient_id, name) = framingham(Patient_id, name, SysBP, DiaBP), SysBP > 140 and DiaBP > 90
+
+10. who are the patients that are older than 65 with a high systolic blood pressure < 140 and have a heart disease
+    (farmingham, heart)
+EHR(Patient_id, name) = framingham(Patient_id, name, age, SysBP), heart(Patient_id, name, target), age > 65, SysBP < 140, target = 1
+
+11. What is the average glucose level among diabetic patients aged over 50?
+    (framingham)
+EHR(avg_glucose) :- framingham(Patient_id, age, glucose, diabetes), age > 50, diabetes = 1
+
+12. Find patients who are smokers but have never had their cholesterol checked
+    (brfss2015)
+
+EHR(Patient_id) :- brfss(Patient_id, smoker, "Yes"), brfss(Patient_id, cholCheck, "No")
+
+13. How many patients over 65 have both hypertension and high cholesterol?
+    (brfss2015, framingham)
+
+EHR(count) :- brfss(Patient_id, highBP, "Yes"), brfss(Patient_id, highChol, "Yes"), brfss(Patient_id, age, AgeCat), AgeCat in [“65-69”, “70-74”, “75+”]
+
+14. Which patients with heart disease have no diabetes and a healthy BMI (under 25)?
+    (heart, framingham, brfss2015)
+
+EHR(Patient_id) :- heart(Patient_id, target=1), brfss(Patient_id, diabetes_binary="No"), framingham(Patient_id, BMI), BMI < 25
+
+Recommended mediated schema EHR: 
+
+patient(Patient_id, name, age, sex)
+diagnosis(Patient_id, diabetes, heart_disease) (as binary 0, 1)
+testResults(Patient_id, sysBP, diaBP, BMI, cholesterol)
+lifestyle(Patient_id, smoker)
+medications(Patient_id, bp_medication)

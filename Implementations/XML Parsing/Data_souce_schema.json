@@ -1,0 +1,56 @@
+{
+  "movie": [
+    "actors",
+    "book",
+    "ratings",
+    "director",
+    "releaseYear",
+    "genre",
+    "title",
+    "ShootLocation"
+  ],
+  "title": [],
+  "director": [
+    "lastName",
+    "firstName"
+  ],
+  "firstName": [],
+  "lastName": [],
+  "genre": [],
+  "releaseYear": [],
+  "actors": [
+    "actor"
+  ],
+  "actor": [
+    "characterName",
+    "actorName"
+  ],
+  "actorName": [],
+  "characterName": [],
+  "ratings": [
+    "rating"
+  ],
+  "rating": [
+    "critic",
+    "score"
+  ],
+  "critic": [],
+  "score": [],
+  "book": [
+    "DOI",
+    "title"
+  ],
+  "DOI": [],
+  "ShootLocation": [
+    "city",
+    "latitude",
+    "country",
+    "address",
+    "longitude"
+  ],
+  "address": [],
+  "city": [],
+  "country": [],
+  "latitude": [],
+  "longitude": []
+}

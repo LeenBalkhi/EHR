@@ -1,0 +1,651 @@
+Diabetes_binary,HighBP,HighChol,CholCheck,BMI,Smoker,Stroke,HeartDiseaseorAttack,PhysActivity,HvyAlcoholConsump,Sex,Age,patient_id,name
+No,Yes,Yes,Yes,40.0,Yes,No,No,No,No,Female,60-64,508,AMANDA MUNOZ
+No,No,No,No,25.0,Yes,No,No,Yes,No,Female,50-54,819,Xavier Z. Jordan
+No,Yes,Yes,Yes,28.0,No,No,No,No,No,Female,60-64,453,E. Lucero
+No,Yes,No,Yes,27.0,No,No,No,Yes,No,Female,70-74,369,Thomas Goodwin
+No,Yes,Yes,Yes,24.0,No,No,No,Yes,No,Female,70-74,243,Alicia S.
+No,Yes,Yes,Yes,25.0,Yes,No,No,Yes,No,Male,65-69,930,Sheila W.
+No,Yes,No,Yes,30.0,Yes,No,No,No,No,Female,60-64,263,Joseph Matthews
+No,Yes,Yes,Yes,25.0,Yes,No,No,Yes,No,Female,70-74,811,Patricia T.
+Yes,Yes,Yes,Yes,30.0,Yes,No,Yes,No,No,Female,60-64,319,joshua hays
+No,No,No,Yes,24.0,No,No,No,No,No,Male,55-59,50,Anthony Flores
+Yes,No,No,Yes,25.0,Yes,No,No,Yes,No,Male,80+,447,sharon crane
+No,Yes,Yes,Yes,34.0,Yes,No,No,No,No,Female,65-69,143,C. Lambert
+No,No,No,Yes,26.0,Yes,No,No,No,No,Female,50-54,969,Valerie N. Terry
+Yes,Yes,Yes,Yes,28.0,No,No,No,No,No,Female,70-74,346,ANTHONY CROSBY
+No,No,Yes,Yes,33.0,Yes,Yes,No,Yes,No,Female,35-39,972,Ashley Reynolds
+No,Yes,No,Yes,33.0,No,No,No,Yes,No,Female,45-49,134,Kimberly H.
+No,Yes,Yes,Yes,21.0,No,No,No,Yes,No,Female,65-69,105,Felicia P.
+Yes,No,No,Yes,23.0,Yes,No,No,Yes,No,Male,50-54,7,Carl Harper
+No,No,No,No,23.0,No,No,No,No,No,Female,25-29,601,DAVID DUNN
+No,No,Yes,Yes,28.0,No,No,No,No,Yes,Male,35-39,497,David K. Archer
+No,Yes,Yes,Yes,22.0,No,Yes,Yes,No,No,Female,75-79,703,Audrey Carroll
+No,Yes,Yes,Yes,38.0,Yes,No,No,No,No,Female,80+,473,MARK NORTON
+No,No,No,Yes,28.0,Yes,No,No,No,No,Male,40-44,599,Lee E. Carlson
+Yes,Yes,No,Yes,27.0,No,No,No,Yes,No,Female,80+,503,Beverly C. Jenkins
+No,Yes,Yes,Yes,28.0,Yes,No,No,No,No,Female,60-64,434,Juan M.
+No,No,No,Yes,32.0,No,No,No,Yes,No,Female,40-44,120,Lynn Ball
+Yes,Yes,Yes,Yes,37.0,Yes,Yes,Yes,No,No,Male,65-69,109,D. Ruiz
+Yes,Yes,Yes,Yes,28.0,Yes,No,Yes,No,No,Male,75-79,648,Dr. Johnson
+Yes,Yes,Yes,Yes,27.0,Yes,No,No,No,No,Female,55-59,590,James M. Cole
+No,No,Yes,Yes,31.0,Yes,No,No,Yes,No,Male,75-79,375,brian sutton
+Yes,Yes,Yes,Yes,34.0,Yes,Yes,No,Yes,No,Female,60-64,911,Kenneth B. Wright
+No,Yes,No,Yes,33.0,Yes,No,No,Yes,No,Male,80+,719,TINA PATTON
+No,No,No,Yes,23.0,No,No,No,Yes,No,Female,45-49,745,Kayla K.
+No,Yes,No,Yes,31.0,No,No,No,Yes,No,Male,70-74,495,todd caldwell
+Yes,Yes,Yes,Yes,24.0,Yes,No,No,No,No,Female,75-79,405,Bridget D.
+No,Yes,No,Yes,26.0,No,No,No,Yes,No,Female,60-64,275,holly waller
+No,Yes,Yes,Yes,24.0,Yes,No,No,Yes,No,Male,55-59,79,DERRICK FLEMING
+No,No,No,Yes,22.0,No,No,No,Yes,No,Female,75-79,722,S. Shepard
+No,No,No,Yes,26.0,Yes,No,No,Yes,No,Male,35-39,645,Mary Watson
+No,Yes,Yes,Yes,24.0,Yes,No,No,No,No,Male,60-64,615,Dennis Hill
+No,No,No,Yes,26.0,No,No,No,Yes,No,Female,35-39,873,CAROL ERICKSON
+Yes,Yes,No,Yes,31.0,No,No,No,No,No,Female,80+,692,P. Durham
+No,No,No,Yes,28.0,Yes,Yes,No,No,No,Female,50-54,91,ALEXANDER HODGE
+No,Yes,No,Yes,23.0,Yes,No,No,Yes,No,Female,60-64,102,Brittany R. Hernandez
+No,No,Yes,Yes,31.0,Yes,No,No,No,No,Female,55-59,95,Nicole Goodman
+No,No,Yes,Yes,21.0,Yes,No,No,Yes,No,Female,55-59,578,Holly N.
+No,No,No,Yes,31.0,No,No,No,Yes,No,Female,50-54,538,Erin Thomas
+No,Yes,Yes,Yes,25.0,Yes,No,Yes,No,No,Male,65-69,42,D. Graham
+No,Yes,Yes,Yes,37.0,No,No,No,Yes,No,Male,65-69,454,John James
+Yes,Yes,Yes,Yes,33.0,Yes,No,No,No,No,Female,70-74,996,Jeffrey W.
+No,Yes,Yes,Yes,30.0,Yes,No,Yes,Yes,No,Female,60-64,714,Brandi Skinner
+No,Yes,No,Yes,22.0,Yes,No,No,Yes,No,Female,50-54,35,Jose Payne
+Yes,Yes,Yes,Yes,27.0,Yes,No,No,No,No,Female,65-69,640,Samuel Coleman
+No,No,No,Yes,31.0,No,No,No,Yes,No,Female,65-69,36,Brian H. Church
+No,No,Yes,Yes,34.0,Yes,No,No,No,No,Female,35-39,149,Alexandra Brown
+No,No,No,Yes,29.0,No,No,No,Yes,No,Male,70-74,456,Amber Weber
+No,No,No,Yes,26.0,No,No,No,Yes,Yes,Female,45-49,886,Gwendolyn X. Henderson
+No,No,Yes,Yes,24.0,Yes,No,No,Yes,No,Female,65-69,678,Thomas Brown
+No,Yes,Yes,Yes,33.0,Yes,No,Yes,Yes,No,Male,70-74,487,Sherry Cherry
+No,No,No,Yes,20.0,Yes,No,No,Yes,No,Female,50-54,686,barbara cantrell
+Yes,Yes,No,Yes,27.0,No,No,No,Yes,No,Female,70-74,308,Adam Parker
+No,Yes,No,Yes,27.0,Yes,No,No,No,No,Female,70-74,239,Patricia N. Anderson
+No,Yes,No,Yes,34.0,Yes,No,No,Yes,No,Female,60-64,396,L. Clark
+No,Yes,Yes,Yes,30.0,No,No,No,Yes,No,Female,50-54,735,Tiffany A.
+No,Yes,Yes,Yes,27.0,No,No,No,Yes,No,Female,65-69,823,Robert W.
+No,Yes,Yes,Yes,38.0,Yes,Yes,Yes,No,No,Male,70-74,813,Steven T. Sanchez
+No,No,Yes,Yes,28.0,Yes,No,No,Yes,No,Male,55-59,465,Mrs. T.
+No,Yes,No,Yes,25.0,No,No,No,No,No,Female,80+,817,Stephanie Young
+Yes,Yes,No,Yes,21.0,Yes,No,No,Yes,No,Female,65-69,529,Mariah Rice
+Yes,Yes,Yes,Yes,23.0,Yes,Yes,Yes,No,No,Female,50-54,18,richard mooney
+No,Yes,Yes,Yes,27.0,Yes,No,No,Yes,No,Male,75-79,710,Emily Parsons
+Yes,Yes,Yes,Yes,27.0,No,No,Yes,Yes,No,Male,50-54,371,Kenneth Escobar
+No,No,No,Yes,32.0,No,No,No,Yes,No,Female,50-54,242,P. Berg
+No,No,No,No,23.0,Yes,No,No,No,No,Female,50-54,965,Bryan Evans
+No,No,Yes,Yes,27.0,No,No,No,Yes,No,Male,18-24,458,Rebecca Gonzalez
+No,No,No,Yes,31.0,Yes,No,No,Yes,No,Male,45-49,66,Melissa Reese
+Yes,Yes,No,Yes,35.0,No,No,No,Yes,No,Male,55-59,192,kelsey thomas
+No,Yes,Yes,Yes,28.0,No,No,Yes,Yes,No,Female,75-79,839,C. Nguyen
+No,Yes,Yes,Yes,26.0,Yes,No,No,Yes,Yes,Male,70-74,332,C. Boyer
+No,Yes,No,Yes,28.0,No,No,No,Yes,No,Male,55-59,639,Dustin Sharp
+No,Yes,No,Yes,28.0,No,No,No,Yes,No,Male,50-54,256,Kara Perez
+No,Yes,Yes,Yes,33.0,No,No,No,No,No,Male,50-54,743,Shannon Nichols
+No,Yes,Yes,Yes,23.0,No,Yes,No,Yes,No,Male,80+,757,deborah rodriguez
+Yes,No,Yes,Yes,32.0,No,No,Yes,Yes,No,Female,80+,758,Marissa L. Bradford
+No,No,No,Yes,27.0,Yes,No,No,Yes,Yes,Female,65-69,952,James West
+Yes,Yes,Yes,Yes,45.0,No,No,No,No,No,Female,60-64,993,Melissa Colon
+No,No,Yes,Yes,22.0,No,No,No,Yes,No,Female,18-24,464,MICHELLE RODGERS
+No,Yes,No,Yes,39.0,No,No,No,No,No,Male,55-59,844,Thomas P.
+No,No,No,Yes,30.0,Yes,No,No,Yes,No,Male,40-44,574,thomas ramirez
+Yes,Yes,Yes,Yes,31.0,Yes,No,Yes,Yes,No,Male,80+,528,P. Davis
+No,Yes,Yes,Yes,32.0,Yes,No,No,No,No,Female,65-69,655,Matthew Flores
+No,No,No,Yes,22.0,No,No,No,Yes,No,Female,30-34,190,katie house
+Yes,Yes,Yes,Yes,29.0,Yes,No,No,Yes,Yes,Male,70-74,518,MICHAEL DONALDSON
+Yes,No,Yes,Yes,29.0,Yes,Yes,No,Yes,No,Female,70-74,957,Christina W.
+No,No,No,Yes,31.0,Yes,No,No,Yes,No,Female,40-44,415,Derek Hall
+Yes,Yes,Yes,Yes,25.0,Yes,No,Yes,No,No,Female,60-64,672,teresa bowers
+Yes,No,No,Yes,32.0,No,No,No,Yes,No,Female,30-34,560,Dr. T. Wolfe
+No,Yes,No,Yes,45.0,No,No,No,Yes,No,Female,60-64,594,STACEY HOUSTON
+No,Yes,Yes,Yes,28.0,No,No,No,No,No,Female,70-74,259,Nicholas Perez
+No,Yes,Yes,Yes,35.0,No,No,Yes,Yes,No,Female,50-54,155,matthew anderson
+No,Yes,No,Yes,27.0,Yes,No,No,Yes,No,Female,60-64,336,rebecca moore
+No,No,Yes,Yes,19.0,Yes,No,Yes,Yes,No,Male,75-79,14,Danielle P. Case
+No,Yes,Yes,Yes,23.0,Yes,No,No,Yes,No,Male,60-64,912,Jennifer T.
+Yes,Yes,Yes,Yes,30.0,No,No,No,Yes,No,Male,60-64,157,Luis Brown
+No,No,Yes,Yes,29.0,No,No,No,Yes,No,Female,45-49,429,BRIAN BUCK
+No,Yes,No,Yes,30.0,No,No,No,Yes,No,Female,65-69,825,S. Shelton
+No,No,Yes,Yes,22.0,No,No,No,Yes,No,Female,55-59,268,Latoya Cook
+Yes,Yes,Yes,Yes,32.0,Yes,No,No,Yes,No,Male,50-54,539,EDWARD NGUYEN
+No,Yes,No,Yes,28.0,No,No,No,Yes,No,Female,65-69,237,wyatt moore
+No,Yes,Yes,Yes,33.0,No,No,No,Yes,No,Female,50-54,945,K. Clements
+No,No,No,Yes,25.0,Yes,No,No,Yes,No,Female,35-39,480,LYNN MARQUEZ
+No,Yes,Yes,Yes,26.0,No,No,No,No,No,Female,80+,786,Jeremy Mccarthy
+No,No,No,Yes,30.0,Yes,No,No,No,No,Male,60-64,951,NICOLE BREWER
+No,Yes,No,Yes,27.0,No,No,No,Yes,No,Male,55-59,60,Pamela T. Mcdonald
+No,No,Yes,Yes,26.0,No,No,No,Yes,No,Female,55-59,869,Bobby Jones
+No,No,No,Yes,28.0,Yes,No,No,Yes,No,Male,30-34,176,Jacqueline X. Woods
+No,No,No,Yes,24.0,Yes,No,Yes,Yes,Yes,Female,70-74,712,Katherine V. Wolf
+No,No,Yes,Yes,27.0,Yes,No,No,No,No,Male,45-49,450,Scott Rivera
+No,Yes,Yes,Yes,35.0,Yes,No,No,No,No,Female,50-54,121,Colin Maddox
+No,No,Yes,Yes,23.0,No,No,No,Yes,No,Male,50-54,795,Victoria J. Chavez
+No,Yes,Yes,Yes,40.0,No,No,No,Yes,No,Female,50-54,181,T. Butler
+Yes,No,No,Yes,29.0,No,No,No,No,No,Female,50-54,312,debra yates
+No,No,Yes,Yes,30.0,No,No,Yes,No,No,Female,65-69,4,Madison Mckay
+No,Yes,Yes,Yes,31.0,No,No,No,Yes,No,Male,65-69,195,Christy Schmitt
+No,No,Yes,Yes,39.0,Yes,No,No,Yes,No,Male,40-44,438,GEORGE EVANS
+No,No,No,No,24.0,Yes,No,No,Yes,No,Female,45-49,684,Briana Johnson
+No,Yes,Yes,Yes,25.0,Yes,Yes,Yes,Yes,No,Male,75-79,800,S. Wilson
+No,Yes,Yes,Yes,22.0,Yes,No,No,No,No,Male,50-54,747,Victor Livingston
+No,No,Yes,Yes,35.0,Yes,No,No,No,No,Female,50-54,626,heather mclaughlin
+No,Yes,Yes,Yes,29.0,Yes,No,No,No,No,Male,80+,693,David F.
+No,No,No,Yes,31.0,Yes,No,No,Yes,No,Male,35-39,552,Amanda L.
+No,No,Yes,Yes,24.0,Yes,No,No,Yes,No,Female,55-59,249,Donald Manning
+No,Yes,Yes,Yes,32.0,Yes,No,Yes,No,No,Female,70-74,660,kimberly meyers
+No,No,Yes,Yes,19.0,Yes,No,No,No,No,Female,55-59,3,AMANDA VEGA
+No,Yes,Yes,Yes,23.0,Yes,No,No,Yes,No,Female,75-79,998,JEFFREY DAVIES
+No,No,Yes,Yes,22.0,No,No,No,No,No,Female,70-74,861,brandon miller
+No,Yes,Yes,Yes,28.0,No,No,No,Yes,No,Female,65-69,777,Jaime Stewart
+Yes,Yes,Yes,Yes,24.0,Yes,No,No,Yes,No,Male,75-79,858,Tina B.
+No,No,Yes,Yes,27.0,Yes,No,No,Yes,No,Male,40-44,359,C. Hernandez
+No,Yes,Yes,Yes,31.0,Yes,No,No,No,No,Female,60-64,770,tasha riddle
+No,No,No,Yes,23.0,Yes,No,No,No,No,Male,18-24,74,raymond mcdonald
+No,Yes,Yes,Yes,28.0,Yes,Yes,No,No,No,Female,60-64,118,C. Colon
+No,No,No,Yes,26.0,No,No,No,No,No,Female,70-74,939,sheila lopez
+Yes,Yes,No,Yes,28.0,No,No,No,No,No,Female,55-59,536,KENNETH MOON
+Yes,Yes,Yes,Yes,29.0,Yes,No,No,Yes,Yes,Male,55-59,112,Michael Marks
+No,No,Yes,Yes,24.0,Yes,No,No,No,No,Female,75-79,510,adrian butler
+No,Yes,Yes,Yes,39.0,Yes,Yes,No,Yes,No,Male,60-64,513,Laura Smith
+No,No,No,Yes,34.0,No,No,No,Yes,No,Female,50-54,917,Albert Saunders
+No,Yes,Yes,Yes,27.0,Yes,No,No,No,Yes,Female,70-74,556,Jessica I. Young
+No,No,No,Yes,22.0,Yes,No,No,Yes,No,Male,75-79,553,jessica barr
+Yes,Yes,Yes,Yes,29.0,No,No,No,No,No,Female,55-59,355,BLAKE STEIN
+No,Yes,Yes,Yes,33.0,Yes,No,No,No,No,Male,75-79,971,KAITLYN ROMERO
+Yes,Yes,No,Yes,26.0,No,No,No,Yes,No,Female,75-79,9,AMANDA SCHMITT
+Yes,Yes,No,Yes,33.0,No,No,No,Yes,No,Female,55-59,582,Rodney Davis
+No,Yes,Yes,Yes,25.0,Yes,No,No,No,No,Female,65-69,57,Elizabeth George
+No,No,No,Yes,23.0,No,No,No,Yes,No,Male,40-44,577,ANTHONY WILSON
+Yes,Yes,Yes,Yes,47.0,Yes,No,No,No,No,Female,70-74,706,Courtney G.
+No,No,Yes,Yes,21.0,Yes,No,Yes,Yes,No,Female,80+,652,Mary Nelson
+Yes,Yes,Yes,Yes,27.0,No,No,No,Yes,No,Female,60-64,85,Ralph Gordon
+No,Yes,No,Yes,18.0,Yes,No,No,No,No,Female,55-59,229,R. Martinez
+Yes,No,Yes,Yes,34.0,Yes,No,No,Yes,No,Male,65-69,160,Danielle Harris
+No,No,No,Yes,22.0,Yes,No,No,Yes,No,Female,60-64,206,Erica Cooper
+No,No,No,Yes,37.0,No,No,No,No,No,Male,55-59,126,Heather H. Wallace
+Yes,Yes,No,Yes,40.0,No,No,No,No,No,Female,55-59,689,nathan fernandez
+No,No,No,No,24.0,Yes,No,No,Yes,No,Male,70-74,888,William A.
+Yes,Yes,No,Yes,34.0,No,No,No,No,No,Female,65-69,474,Andrea Q. Hernandez
+No,No,Yes,Yes,29.0,No,No,No,No,No,Female,55-59,245,Regina Harris
+No,Yes,Yes,Yes,37.0,Yes,No,No,Yes,No,Female,65-69,598,Jordan N.
+No,No,Yes,Yes,18.0,Yes,No,No,Yes,No,Female,55-59,798,sarah garcia
+No,Yes,Yes,Yes,30.0,Yes,No,No,Yes,No,Male,75-79,196,Mark Ross
+Yes,Yes,Yes,Yes,29.0,Yes,No,No,Yes,No,Male,65-69,203,Peter Wolf
+Yes,Yes,Yes,Yes,28.0,No,No,Yes,No,No,Female,75-79,82,KATIE DDS
+No,No,Yes,Yes,36.0,No,No,No,No,No,Female,50-54,485,Andrew Rodgers
+No,No,No,Yes,25.0,Yes,No,No,Yes,No,Female,50-54,444,Carol Hood
+No,Yes,Yes,Yes,29.0,No,Yes,Yes,Yes,No,Female,65-69,579,Rachel Smith
+No,No,No,Yes,29.0,Yes,No,No,No,No,Male,35-39,202,Benjamin J. James
+Yes,Yes,No,Yes,32.0,Yes,No,No,Yes,No,Male,65-69,187,R. Hall
+Yes,Yes,Yes,Yes,37.0,No,No,Yes,Yes,No,Female,80+,517,John Johnson
+No,Yes,Yes,Yes,29.0,Yes,No,Yes,No,No,Male,55-59,822,Clayton U. Williams
+No,No,Yes,Yes,30.0,Yes,No,No,Yes,No,Male,50-54,968,Kelly Myers
+No,No,No,Yes,21.0,Yes,No,No,Yes,No,Female,50-54,217,Jennifer N. Hopkins
+No,Yes,Yes,Yes,34.0,No,No,No,Yes,No,Female,80+,51,C. Mills
+No,No,Yes,Yes,28.0,Yes,No,No,Yes,No,Male,40-44,784,Susan Y. Morrow
+No,Yes,Yes,Yes,26.0,Yes,No,No,Yes,No,Male,70-74,673,SHAWN HOOD
+No,Yes,Yes,Yes,37.0,Yes,No,No,No,Yes,Male,60-64,532,April Johnson
+No,No,No,Yes,28.0,No,No,No,Yes,No,Female,55-59,315,Jessica Cowan
+No,Yes,Yes,Yes,38.0,Yes,No,No,Yes,No,Male,50-54,201,kathryn taylor
+No,No,Yes,Yes,29.0,Yes,No,No,No,No,Male,55-59,224,Amanda Campbell
+No,Yes,No,Yes,43.0,Yes,No,No,No,No,Female,65-69,588,DUSTIN RIOS
+No,Yes,Yes,Yes,23.0,Yes,No,No,No,No,Female,60-64,984,Danielle Webster
+No,Yes,No,Yes,35.0,Yes,No,No,Yes,No,Male,60-64,700,B. Walker
+No,No,No,Yes,24.0,Yes,No,Yes,No,No,Male,60-64,827,robert rodriguez
+No,Yes,No,Yes,23.0,Yes,No,No,No,No,Male,65-69,234,Andrea M.
+No,Yes,Yes,Yes,34.0,No,No,No,No,No,Female,50-54,585,Holly Jones
+Yes,Yes,No,Yes,33.0,No,No,No,Yes,No,Female,70-74,975,Heather Perez
+No,Yes,Yes,Yes,28.0,Yes,No,No,No,No,Female,60-64,431,Kathleen Navarro
+No,No,No,Yes,29.0,No,No,No,No,No,Female,75-79,875,Natalie Mendez
+Yes,Yes,Yes,Yes,29.0,Yes,Yes,Yes,No,No,Female,75-79,551,Lauren F.
+No,No,Yes,Yes,27.0,No,No,No,Yes,No,Female,55-59,609,Courtney C.
+No,No,No,Yes,21.0,No,No,No,No,No,Female,45-49,208,Tamara White
+No,No,No,Yes,28.0,No,No,No,No,No,Female,45-49,383,Lori Spears
+Yes,Yes,Yes,Yes,55.0,No,No,No,No,No,Female,70-74,995,J. Whitney
+No,No,No,Yes,22.0,No,No,No,Yes,Yes,Female,50-54,983,Robert DDS
+No,Yes,Yes,Yes,49.0,Yes,Yes,No,No,No,Female,60-64,48,Victoria Johnson
+No,Yes,No,Yes,28.0,No,No,No,Yes,No,Female,50-54,522,Alexa J.
+No,No,No,Yes,27.0,Yes,No,No,Yes,No,Female,75-79,637,Grace Montgomery
+No,No,No,Yes,27.0,Yes,No,No,Yes,No,Male,80+,20,Terri Bryant
+No,No,No,Yes,26.0,No,No,No,Yes,No,Male,45-49,367,Karen Avila
+No,No,Yes,Yes,23.0,No,No,No,No,No,Female,80+,341,Brittney M. Fischer
+No,Yes,Yes,Yes,30.0,No,No,No,Yes,No,Male,50-54,953,JOSEPH PETERSEN
+Yes,Yes,Yes,Yes,31.0,Yes,No,No,Yes,No,Female,60-64,676,Anita Johnson
+No,No,No,Yes,34.0,No,No,No,No,No,Female,45-49,307,Jonathan Lewis
+No,No,Yes,Yes,24.0,Yes,No,No,Yes,No,Male,65-69,836,John S. Tyler
+No,Yes,No,Yes,18.0,Yes,No,No,Yes,No,Female,35-39,430,Holly Bennett
+No,No,No,Yes,18.0,Yes,No,No,Yes,No,Female,55-59,824,William Woods
+No,No,Yes,Yes,30.0,Yes,No,No,Yes,No,Female,45-49,305,DAVID HERNANDEZ
+No,Yes,No,Yes,42.0,No,No,No,No,No,Male,55-59,356,Wesley Ramirez
+Yes,Yes,Yes,Yes,28.0,Yes,Yes,No,No,No,Female,75-79,178,Erin Garcia
+No,Yes,Yes,Yes,31.0,Yes,No,No,Yes,No,Male,60-64,946,AMANDA HINES
+Yes,Yes,No,Yes,30.0,No,No,No,Yes,No,Female,65-69,61,A. Werner
+No,No,No,Yes,22.0,Yes,No,No,No,No,Female,25-29,310,Jon Tanner
+No,Yes,Yes,Yes,17.0,Yes,No,Yes,Yes,No,Female,55-59,893,John Copeland
+No,Yes,No,Yes,31.0,No,No,No,No,No,Female,75-79,302,Amanda Small
+No,Yes,No,Yes,31.0,No,No,No,Yes,No,Male,55-59,921,S. Walker
+No,No,No,Yes,22.0,No,No,No,No,No,Female,45-49,595,Karen P. Mckee
+No,No,No,Yes,40.0,No,No,No,Yes,No,Female,40-44,762,Emily Williams
+No,Yes,Yes,Yes,24.0,Yes,No,No,Yes,No,Male,75-79,108,Robin Spencer
+No,No,Yes,Yes,30.0,No,No,No,Yes,No,Male,65-69,748,Michelle Bishop
+No,Yes,No,Yes,33.0,Yes,No,No,Yes,No,Male,65-69,989,Kara R.
+No,Yes,No,Yes,28.0,Yes,No,No,Yes,No,Female,75-79,807,S. Ferguson
+No,No,Yes,Yes,24.0,Yes,No,No,Yes,No,Female,50-54,100,Katherine I. Sanders
+No,No,No,Yes,28.0,No,No,No,Yes,No,Female,45-49,251,Samuel A.
+No,No,Yes,Yes,24.0,No,No,No,Yes,No,Female,70-74,834,Amber Larsen
+No,No,Yes,Yes,26.0,Yes,No,No,No,No,Female,55-59,475,Nicolas Sanchez
+No,No,Yes,Yes,32.0,Yes,No,No,No,No,Male,60-64,704,janice kirby
+Yes,Yes,No,Yes,38.0,Yes,No,No,No,No,Male,55-59,942,nicholas hebert
+No,Yes,Yes,Yes,33.0,Yes,No,No,No,No,Female,75-79,384,Brian Lester
+Yes,Yes,Yes,Yes,24.0,Yes,No,No,Yes,No,Male,75-79,681,Heather Simpson
+Yes,Yes,Yes,Yes,32.0,No,No,No,Yes,No,Male,55-59,182,Karen Cooper
+No,Yes,Yes,Yes,25.0,No,No,No,Yes,Yes,Male,70-74,13,Ryan Gonzalez
+No,No,Yes,Yes,30.0,Yes,No,No,No,No,Male,70-74,614,Mark W.
+No,No,No,Yes,26.0,No,No,No,Yes,No,Male,65-69,86,Eric H.
+No,No,No,Yes,21.0,No,No,No,Yes,No,Male,80+,321,Heather Wilson
+Yes,No,No,Yes,34.0,Yes,No,No,No,No,Male,45-49,650,CHRISTINE BENSON
+No,Yes,No,Yes,21.0,Yes,No,No,Yes,No,Male,75-79,711,A. Wallace
+No,Yes,No,Yes,36.0,No,No,No,Yes,No,Female,50-54,386,C. Buchanan
+No,No,No,Yes,32.0,Yes,No,No,No,No,Male,45-49,891,Robert J. Ellis
+No,Yes,Yes,Yes,24.0,No,No,No,No,No,Male,50-54,440,Daniel D.
+No,No,No,Yes,23.0,Yes,No,No,No,No,Female,80+,136,Sarah Yoder
+Yes,Yes,Yes,Yes,26.0,Yes,No,Yes,No,No,Female,65-69,568,Robert Webb
+Yes,Yes,Yes,Yes,23.0,No,No,No,No,No,Female,80+,299,amanda white
+No,Yes,Yes,Yes,21.0,No,No,No,No,No,Female,80+,161,grant taylor
+No,No,Yes,Yes,23.0,No,No,No,Yes,No,Male,60-64,269,JONATHAN ALVAREZ
+No,No,No,Yes,23.0,No,No,No,Yes,No,Female,75-79,659,MARY DAVIS
+No,Yes,Yes,Yes,23.0,Yes,No,Yes,Yes,No,Female,60-64,997,Rachael B. Duncan
+No,No,No,Yes,27.0,Yes,No,Yes,Yes,No,Male,60-64,642,SHIRLEY LANE
+No,Yes,Yes,Yes,23.0,Yes,No,No,Yes,No,Male,65-69,907,S. Moses
+No,No,Yes,Yes,20.0,No,No,No,Yes,No,Female,50-54,806,elizabeth johnson
+No,Yes,Yes,Yes,29.0,No,No,No,Yes,No,Female,55-59,894,Sheri Ferguson
+No,No,No,Yes,34.0,No,No,No,Yes,No,Female,65-69,390,Kayla Flores
+Yes,No,Yes,Yes,27.0,No,Yes,No,Yes,No,Female,80+,122,AMBER MILLER
+No,Yes,Yes,Yes,28.0,No,No,Yes,Yes,No,Male,65-69,838,jeffrey martinez
+No,No,No,Yes,33.0,Yes,No,No,Yes,No,Male,55-59,188,Stephen Luna
+No,No,No,No,24.0,Yes,No,No,No,No,Male,55-59,17,Amanda Y. Russell
+No,Yes,No,Yes,24.0,No,No,No,Yes,No,Male,75-79,774,Angela S.
+No,Yes,No,Yes,36.0,Yes,No,Yes,No,No,Female,70-74,494,B. Newman
+Yes,No,No,Yes,28.0,Yes,No,No,No,No,Male,70-74,342,Stacy Coleman
+Yes,Yes,Yes,Yes,16.0,No,No,No,No,No,Male,65-69,427,P. Morris
+Yes,Yes,Yes,Yes,31.0,Yes,Yes,Yes,Yes,No,Male,65-69,468,Laura Craig
+Yes,Yes,Yes,Yes,27.0,No,No,No,No,No,Female,70-74,107,TRACEY MITCHELL
+No,No,No,Yes,41.0,No,No,No,No,No,Male,40-44,409,Douglas Peterson
+No,No,No,Yes,22.0,No,No,No,Yes,No,Female,40-44,24,Kevin Durham
+No,Yes,Yes,Yes,21.0,No,No,No,Yes,No,Female,70-74,832,mrs. davis
+No,Yes,Yes,Yes,34.0,No,No,No,Yes,No,Male,60-64,70,Jackie Owens
+Yes,Yes,Yes,Yes,37.0,No,No,No,Yes,No,Female,65-69,901,K. Brooks
+No,Yes,Yes,Yes,32.0,Yes,Yes,No,Yes,No,Male,55-59,677,Teresa Moyer
+No,No,No,Yes,26.0,Yes,No,No,Yes,No,Male,65-69,802,Jeffrey Cruz
+No,Yes,Yes,Yes,39.0,No,No,No,No,No,Female,65-69,600,D. Thompson
+No,No,No,Yes,28.0,No,No,No,Yes,No,Male,35-39,644,PATRICIA MARTIN
+Yes,Yes,No,Yes,26.0,No,No,No,No,No,Female,65-69,340,Elizabeth Thompson
+No,No,Yes,Yes,20.0,No,No,No,No,No,Female,35-39,702,Robert Reynolds
+No,Yes,Yes,Yes,31.0,No,No,No,No,No,Male,60-64,874,Raymond C. Smith
+No,Yes,Yes,Yes,32.0,No,No,No,Yes,No,Female,65-69,75,Edward Haynes
+No,Yes,Yes,Yes,20.0,Yes,No,No,Yes,No,Female,65-69,219,ivan johnson
+No,Yes,Yes,Yes,36.0,Yes,No,No,Yes,No,Male,50-54,526,Nancy D. Villegas
+Yes,Yes,Yes,Yes,29.0,Yes,No,No,No,No,Male,60-64,266,Alicia G.
+No,Yes,Yes,Yes,31.0,No,No,No,No,No,Male,50-54,892,Desiree S.
+No,Yes,Yes,Yes,32.0,No,No,No,No,No,Male,70-74,111,Hunter R.
+No,Yes,No,Yes,30.0,No,No,No,Yes,No,Female,55-59,436,Emily Hess
+Yes,No,No,Yes,30.0,Yes,No,No,No,No,Female,70-74,981,terri jackson
+No,No,Yes,Yes,22.0,No,No,No,Yes,No,Female,65-69,633,SHAWN GONZALEZ
+Yes,Yes,Yes,Yes,21.0,No,Yes,No,Yes,No,Female,70-74,186,MIRANDA OLSON
+No,Yes,No,Yes,28.0,Yes,No,Yes,Yes,No,Female,80+,287,CHRISTOPHER CUNNINGHAM
+No,Yes,No,Yes,29.0,Yes,No,No,Yes,Yes,Male,70-74,583,Jeremiah Nguyen
+No,Yes,Yes,Yes,45.0,Yes,No,Yes,Yes,No,Female,50-54,900,JESSICA MOONEY
+Yes,Yes,No,Yes,25.0,No,No,No,Yes,No,Female,75-79,460,Sheri T.
+No,No,No,Yes,24.0,No,No,No,Yes,No,Male,55-59,416,Teresa O. Wright
+No,No,No,Yes,23.0,No,No,No,Yes,No,Female,60-64,62,Aaron B.
+No,Yes,No,Yes,26.0,No,No,No,Yes,No,Female,45-49,348,Jessica Watkins
+No,No,No,Yes,30.0,No,No,No,Yes,No,Female,50-54,350,Mark Perry
+No,No,No,Yes,25.0,No,No,No,Yes,No,Female,55-59,301,Tammy N.
+No,No,Yes,Yes,27.0,No,No,No,No,No,Female,60-64,302,Amanda Small
+No,No,Yes,Yes,25.0,No,No,No,No,No,Female,80+,303,Michael Silva
+No,Yes,No,Yes,24.0,No,No,No,Yes,No,Male,80+,304,Tracy Sharp
+No,Yes,Yes,Yes,21.0,Yes,No,Yes,Yes,No,Female,65-69,305,DAVID HERNANDEZ
+No,Yes,Yes,Yes,31.0,Yes,No,Yes,No,No,Male,60-64,306,trevor burton
+No,No,Yes,Yes,30.0,No,No,No,Yes,No,Female,60-64,307,Jonathan Lewis
+No,Yes,Yes,Yes,27.0,No,No,No,No,No,Female,50-54,308,Adam Parker
+No,Yes,Yes,Yes,25.0,Yes,Yes,Yes,No,No,Female,70-74,309,BRUCE HOUSTON
+Yes,No,Yes,Yes,30.0,Yes,No,No,Yes,No,Female,55-59,310,Jon Tanner
+Yes,Yes,No,Yes,32.0,No,No,Yes,Yes,No,Female,45-49,311,ANGELA SCOTT
+No,Yes,Yes,Yes,24.0,Yes,No,No,Yes,No,Female,55-59,312,debra yates
+No,No,No,Yes,32.0,No,No,No,Yes,No,Male,60-64,313,Lauren Hall
+No,No,Yes,Yes,33.0,No,No,No,Yes,No,Male,40-44,314,James Robinson
+No,Yes,Yes,Yes,23.0,No,No,No,Yes,No,Female,80+,315,Jessica Cowan
+Yes,Yes,Yes,Yes,27.0,Yes,No,Yes,No,No,Female,60-64,316,GARY MENDEZ
+Yes,Yes,Yes,Yes,34.0,No,No,Yes,Yes,No,Female,80+,317,Sarah Willis
+Yes,Yes,Yes,Yes,26.0,Yes,Yes,No,No,No,Male,80+,318,mark davis
+No,No,No,Yes,22.0,No,No,No,Yes,No,Female,40-44,319,joshua hays
+No,No,No,Yes,31.0,Yes,No,No,No,No,Female,30-34,320,Deborah Mejia
+Yes,Yes,Yes,Yes,23.0,No,Yes,No,No,No,Female,80+,321,Heather Wilson
+Yes,Yes,Yes,Yes,45.0,No,No,No,No,No,Female,55-59,322,Laura Morales
+Yes,Yes,Yes,Yes,37.0,Yes,No,No,No,No,Female,50-54,323,Luis Allen
+No,Yes,No,Yes,27.0,Yes,No,No,Yes,No,Female,60-64,324,JEFFREY BARNES
+Yes,Yes,Yes,Yes,31.0,Yes,No,Yes,Yes,No,Male,55-59,325,Abigail Nelson
+No,Yes,No,Yes,35.0,No,No,No,No,No,Female,50-54,326,Wendy N.
+No,Yes,No,Yes,27.0,No,No,No,No,No,Female,80+,327,Claudia Y. Miller
+No,No,No,Yes,31.0,No,No,No,No,No,Female,50-54,328,William H. Hansen
+No,No,No,Yes,38.0,Yes,No,No,No,No,Male,35-39,329,deanna garcia
+No,No,Yes,Yes,23.0,No,No,No,Yes,No,Female,70-74,330,Maria Q. Baker
+No,Yes,Yes,Yes,26.0,Yes,No,No,No,No,Male,55-59,331,S. Barry
+Yes,Yes,Yes,Yes,25.0,Yes,No,No,No,No,Male,75-79,332,C. Boyer
+Yes,No,No,Yes,43.0,No,No,No,No,No,Female,65-69,333,Kenneth Winters
+No,No,Yes,Yes,26.0,Yes,No,No,No,No,Female,75-79,334,Jason M.
+No,Yes,No,Yes,33.0,No,No,No,Yes,No,Male,50-54,335,Maria Q. Castillo
+No,Yes,Yes,Yes,37.0,Yes,No,No,Yes,No,Female,70-74,336,rebecca moore
+No,No,No,Yes,32.0,Yes,No,Yes,Yes,No,Male,70-74,337,Matthew Martinez
+No,Yes,Yes,Yes,29.0,Yes,No,Yes,Yes,No,Male,70-74,338,Tammy Stewart
+No,No,No,Yes,25.0,Yes,No,No,Yes,No,Male,65-69,339,troy williams
+No,No,No,Yes,31.0,Yes,No,No,No,No,Female,70-74,340,Elizabeth Thompson
+No,Yes,Yes,Yes,31.0,No,No,No,No,No,Female,65-69,341,Brittney M. Fischer
+Yes,Yes,Yes,Yes,24.0,No,No,No,No,No,Female,60-64,342,Stacy Coleman
+No,Yes,No,Yes,23.0,Yes,No,No,Yes,No,Female,45-49,343,ALEX RHODES
+No,No,Yes,Yes,19.0,Yes,No,No,No,No,Female,60-64,344,Phillip D.
+No,Yes,No,Yes,32.0,Yes,Yes,Yes,No,No,Male,45-49,345,Sarah Lynch
+No,No,Yes,Yes,24.0,Yes,No,No,Yes,No,Female,40-44,346,ANTHONY CROSBY
+No,Yes,No,No,32.0,Yes,No,No,No,No,Female,55-59,347,Chris D. Jones
+No,No,Yes,Yes,21.0,No,No,No,Yes,No,Female,50-54,348,Jessica Watkins
+No,No,No,Yes,30.0,Yes,No,Yes,Yes,No,Male,60-64,349,Destiny Frazier
+No,No,No,Yes,30.0,No,No,No,Yes,No,Female,55-59,350,Mark Perry
+No,Yes,No,Yes,26.0,No,Yes,No,No,No,Female,80+,351,Hannah Mccarthy
+No,No,No,Yes,18.0,No,No,No,No,No,Male,60-64,352,Patricia I. Solomon
+No,Yes,Yes,Yes,30.0,Yes,No,Yes,No,No,Male,60-64,353,Francisco Torres
+Yes,Yes,No,Yes,38.0,Yes,Yes,No,Yes,No,Male,65-69,354,LINDA WILLIAMSON
+No,No,Yes,Yes,20.0,Yes,No,No,No,No,Female,60-64,355,BLAKE STEIN
+Yes,Yes,Yes,Yes,42.0,No,No,No,No,No,Male,45-49,356,Wesley Ramirez
+No,No,No,Yes,23.0,No,No,No,No,No,Female,25-29,357,Amanda Santos
+Yes,No,Yes,Yes,26.0,Yes,No,No,No,No,Male,55-59,358,L. Butler
+No,Yes,Yes,Yes,29.0,Yes,No,No,No,No,Female,75-79,359,C. Hernandez
+No,No,No,Yes,27.0,No,No,No,No,No,Female,35-39,360,Tony Smith
+No,Yes,Yes,Yes,26.0,Yes,No,No,No,No,Female,45-49,361,Kathy Garner
+Yes,Yes,Yes,Yes,47.0,Yes,No,Yes,No,No,Male,70-74,362,C. Perez
+No,No,No,Yes,26.0,Yes,No,No,Yes,No,Male,60-64,363,jessica roberts
+Yes,Yes,Yes,Yes,25.0,No,Yes,Yes,Yes,No,Female,70-74,364,Charles Conrad
+No,Yes,No,Yes,31.0,No,No,No,Yes,No,Male,60-64,365,Shannon Strong
+No,No,No,Yes,32.0,Yes,No,No,Yes,No,Male,50-54,366,Jerry Smith
+No,No,Yes,Yes,33.0,Yes,No,No,Yes,No,Female,60-64,367,Karen Avila
+No,Yes,Yes,Yes,24.0,No,No,No,No,No,Male,80+,368,P. Williams
+Yes,Yes,Yes,Yes,31.0,No,No,No,No,No,Female,80+,369,Thomas Goodwin
+Yes,Yes,Yes,Yes,44.0,Yes,No,No,Yes,No,Female,35-39,370,claire pierce
+No,No,Yes,Yes,32.0,No,No,No,Yes,No,Male,45-49,371,Kenneth Escobar
+No,Yes,No,Yes,36.0,No,No,No,No,No,Female,45-49,372,David Parker
+No,Yes,No,Yes,25.0,No,No,No,Yes,No,Female,40-44,373,donald duncan
+No,No,Yes,Yes,29.0,No,No,No,No,No,Male,40-44,374,Kevin Taylor
+Yes,Yes,No,Yes,43.0,No,No,No,Yes,No,Male,65-69,375,brian sutton
+Yes,Yes,No,Yes,36.0,No,Yes,No,Yes,No,Female,55-59,376,Cindy Mejia
+No,No,Yes,Yes,25.0,Yes,No,No,No,No,Female,45-49,377,David Cardenas
+Yes,No,No,Yes,30.0,No,No,No,Yes,No,Female,60-64,378,Erica Elliott
+Yes,No,Yes,Yes,22.0,No,No,No,Yes,No,Female,80+,379,Kyle H.
+No,Yes,Yes,Yes,26.0,No,No,No,No,No,Male,50-54,380,Anthony Solomon
+No,Yes,Yes,Yes,36.0,No,No,No,No,No,Female,60-64,381,William Medina
+No,Yes,Yes,Yes,26.0,Yes,No,Yes,Yes,No,Male,75-79,382,javier taylor
+No,Yes,Yes,Yes,24.0,No,No,No,No,No,Female,75-79,383,Lori Spears
+No,Yes,No,Yes,39.0,Yes,No,No,Yes,Yes,Male,55-59,384,Brian Lester
+Yes,Yes,No,Yes,30.0,No,No,No,Yes,No,Female,65-69,385,C. Hall
+No,No,No,Yes,24.0,No,No,No,Yes,No,Female,55-59,386,C. Buchanan
+No,No,No,Yes,26.0,No,No,No,Yes,No,Male,18-24,387,Kelly Hill
+No,No,Yes,Yes,27.0,Yes,No,No,Yes,No,Male,65-69,388,Karen Rodriguez
+Yes,Yes,No,Yes,34.0,Yes,Yes,No,No,No,Male,65-69,389,S. Montgomery
+No,Yes,No,Yes,43.0,No,No,No,Yes,No,Female,75-79,390,Kayla Flores
+No,Yes,Yes,Yes,30.0,No,No,No,Yes,No,Male,50-54,391,JASON RICE
+No,Yes,No,Yes,33.0,No,No,No,Yes,No,Female,65-69,392,Kimberly Z. Clark
+No,No,No,Yes,25.0,No,No,No,No,No,Female,55-59,393,sandra sanchez
+No,Yes,No,Yes,24.0,Yes,No,Yes,Yes,No,Male,60-64,394,Lauren Montoya
+No,No,No,No,20.0,No,No,No,No,No,Female,35-39,395,JACK CRUZ
+Yes,Yes,Yes,Yes,40.0,No,No,No,Yes,No,Female,55-59,396,L. Clark
+No,Yes,Yes,Yes,35.0,No,No,Yes,Yes,No,Female,80+,397,JEFFREY HICKS
+No,Yes,No,Yes,22.0,No,No,No,Yes,No,Male,80+,398,Brenda V. Thomas
+No,Yes,No,Yes,32.0,No,No,No,No,No,Female,65-69,399,Emily G. Alvarez
+No,No,No,Yes,31.0,No,No,No,No,No,Female,55-59,400,jose ward
+No,Yes,Yes,Yes,28.0,Yes,No,Yes,No,No,Female,60-64,401,Jason Hall
+Yes,Yes,No,Yes,32.0,No,No,No,No,No,Female,65-69,402,rachel yang
+Yes,Yes,Yes,Yes,28.0,No,No,No,No,No,Female,60-64,403,B. Hodges
+Yes,Yes,Yes,Yes,40.0,No,Yes,No,No,No,Female,60-64,404,Cody Costa
+No,No,No,Yes,23.0,Yes,No,No,Yes,No,Female,30-34,405,Bridget D.
+No,Yes,No,Yes,29.0,No,No,No,Yes,No,Female,55-59,406,H. White
+Yes,Yes,Yes,Yes,34.0,Yes,No,No,No,No,Female,60-64,407,Tiffany Lee
+No,Yes,No,Yes,30.0,No,No,No,Yes,No,Female,75-79,408,N. Reese
+Yes,Yes,Yes,Yes,30.0,No,No,Yes,Yes,No,Male,65-69,409,Douglas Peterson
+No,No,Yes,No,26.0,No,No,No,No,No,Female,40-44,410,Christian Lynch
+No,No,Yes,Yes,36.0,Yes,No,No,No,No,Female,55-59,411,Katherine W.
+Yes,Yes,No,Yes,35.0,Yes,No,No,Yes,No,Female,70-74,412,Paul B.
+No,No,Yes,Yes,36.0,No,No,No,No,No,Male,40-44,413,Alexandra Lopez
+No,Yes,No,Yes,24.0,Yes,No,Yes,No,Yes,Male,65-69,414,Danielle Johnson
+No,Yes,Yes,Yes,22.0,No,No,Yes,No,No,Female,75-79,415,Derek Hall
+No,Yes,No,Yes,34.0,No,No,No,Yes,No,Male,70-74,416,Teresa O. Wright
+No,Yes,Yes,Yes,25.0,No,No,No,No,No,Female,65-69,417,Joseph W.
+Yes,Yes,Yes,Yes,49.0,No,Yes,Yes,No,No,Female,65-69,418,Michael Ramirez
+Yes,Yes,Yes,Yes,28.0,No,No,No,No,No,Male,65-69,419,Roy Buck
+No,No,Yes,Yes,29.0,Yes,No,No,No,No,Female,30-34,420,lori woods
+Yes,Yes,Yes,Yes,23.0,Yes,Yes,No,Yes,Yes,Male,60-64,421,Amy Z. Woodward
+Yes,Yes,Yes,Yes,35.0,No,Yes,Yes,No,No,Male,55-59,422,Jason V. Avila
+No,Yes,No,Yes,26.0,Yes,No,No,Yes,No,Male,80+,423,Caitlin G. Marshall
+No,Yes,Yes,Yes,27.0,Yes,No,No,No,No,Female,70-74,424,Kayla Porter
+No,No,No,Yes,20.0,No,No,No,Yes,No,Female,60-64,425,Thomas G.
+No,Yes,Yes,Yes,34.0,Yes,No,No,Yes,No,Male,35-39,426,H. Martin
+Yes,Yes,No,Yes,43.0,No,No,No,No,No,Female,65-69,427,P. Morris
+No,Yes,No,Yes,27.0,No,No,No,Yes,No,Female,65-69,428,M. Harris
+No,Yes,Yes,Yes,39.0,No,No,No,No,No,Female,65-69,429,BRIAN BUCK
+No,Yes,Yes,Yes,36.0,Yes,No,No,Yes,No,Male,30-34,430,Holly Bennett
+No,Yes,No,Yes,18.0,No,No,No,Yes,No,Female,75-79,431,Kathleen Navarro
+No,Yes,No,Yes,39.0,No,No,Yes,Yes,No,Female,65-69,432,LISA ESTRADA
+No,Yes,Yes,Yes,32.0,Yes,No,No,Yes,Yes,Female,65-69,433,Jessica Guerrero
+No,No,Yes,Yes,29.0,Yes,No,No,Yes,No,Male,60-64,434,Juan M.
+No,Yes,Yes,Yes,36.0,Yes,No,No,Yes,No,Female,65-69,435,Kimberly Jones
+No,Yes,Yes,Yes,29.0,Yes,No,No,No,No,Female,55-59,436,Emily Hess
+No,No,No,Yes,24.0,Yes,No,No,Yes,No,Female,55-59,437,Paul Whitehead
+No,Yes,No,Yes,32.0,No,No,No,Yes,No,Male,40-44,438,GEORGE EVANS
+No,No,No,Yes,23.0,No,No,No,Yes,No,Female,18-24,439,Melissa Nelson
+No,Yes,No,Yes,24.0,No,No,No,Yes,No,Female,40-44,440,Daniel D.
+No,Yes,No,Yes,17.0,No,Yes,Yes,No,No,Female,80+,441,LINDSEY LONG
+Yes,Yes,Yes,Yes,26.0,No,No,No,Yes,No,Female,65-69,442,Andrea Reed
+No,No,No,Yes,28.0,No,No,No,No,No,Male,45-49,443,James Le
+No,Yes,No,Yes,21.0,No,No,No,Yes,No,Female,50-54,444,Carol Hood
+No,No,Yes,Yes,29.0,No,No,No,No,No,Female,60-64,445,Thomas Massey
+Yes,No,Yes,Yes,25.0,Yes,No,Yes,Yes,No,Male,65-69,446,Joseph Casey
+No,Yes,No,Yes,27.0,Yes,Yes,No,Yes,No,Female,75-79,447,sharon crane
+No,Yes,No,Yes,24.0,No,No,No,No,No,Female,80+,448,BRANDON PERRY
+No,Yes,Yes,Yes,27.0,Yes,No,No,No,No,Male,60-64,449,stephanie hall
+No,Yes,Yes,Yes,28.0,Yes,No,Yes,Yes,No,Male,65-69,450,Scott Rivera
+No,Yes,Yes,Yes,30.0,Yes,No,Yes,Yes,No,Female,70-74,451,Mary B.
+No,No,Yes,Yes,32.0,Yes,No,No,Yes,No,Female,65-69,452,Matthew K. Becker
+Yes,No,No,Yes,39.0,Yes,No,No,No,No,Female,60-64,453,E. Lucero
+No,No,Yes,Yes,27.0,No,No,No,Yes,No,Female,55-59,454,John James
+Yes,No,No,Yes,31.0,Yes,No,No,Yes,Yes,Female,65-69,455,theresa martinez
+Yes,Yes,No,Yes,36.0,No,No,No,No,No,Female,55-59,456,Amber Weber
+Yes,Yes,Yes,Yes,33.0,No,Yes,No,No,No,Male,65-69,457,Derek B. Bailey
+No,Yes,Yes,Yes,35.0,No,No,No,Yes,No,Female,70-74,458,Rebecca Gonzalez
+Yes,Yes,No,Yes,24.0,No,No,No,Yes,No,Male,70-74,459,Courtney D.
+No,Yes,Yes,Yes,18.0,No,No,No,Yes,No,Female,70-74,460,Sheri T.
+Yes,Yes,No,Yes,24.0,No,No,No,No,No,Female,60-64,461,Sarah Scott
+No,Yes,No,Yes,28.0,No,No,No,No,No,Female,70-74,462,G. Payne
+No,No,No,Yes,23.0,No,No,No,Yes,No,Female,75-79,463,Dana Stephenson
+No,Yes,No,Yes,27.0,Yes,No,No,Yes,No,Female,65-69,464,MICHELLE RODGERS
+No,No,No,Yes,42.0,Yes,No,No,No,No,Female,55-59,465,Mrs. T.
+No,Yes,Yes,Yes,30.0,No,No,No,No,No,Female,60-64,466,Kimberly M.
+No,Yes,Yes,Yes,33.0,No,No,No,Yes,No,Male,35-39,467,Scott S.
+No,No,No,Yes,23.0,Yes,No,No,Yes,No,Male,65-69,468,Laura Craig
+No,No,Yes,Yes,29.0,Yes,No,No,No,No,Male,40-44,469,Casey Moreno
+No,Yes,Yes,Yes,31.0,Yes,No,No,No,No,Male,55-59,470,D. Flowers
+No,Yes,Yes,No,33.0,No,No,No,Yes,No,Female,50-54,471,Laura B.
+Yes,Yes,Yes,Yes,40.0,Yes,No,No,Yes,No,Female,65-69,472,Nathan Smith
+No,No,No,Yes,27.0,Yes,No,No,Yes,No,Female,70-74,473,MARK NORTON
+No,No,No,Yes,27.0,No,No,No,Yes,No,Female,40-44,474,Andrea Q. Hernandez
+No,Yes,No,Yes,19.0,No,No,No,No,No,Female,50-54,475,Nicolas Sanchez
+No,No,Yes,Yes,26.0,No,No,No,Yes,No,Female,25-29,476,Timothy P. Wright
+No,Yes,No,Yes,32.0,No,No,No,Yes,No,Female,60-64,477,Mary F.
+No,No,No,Yes,23.0,Yes,No,No,Yes,No,Female,75-79,478,Kristin Oconnor
+Yes,No,Yes,Yes,42.0,Yes,Yes,No,No,No,Female,55-59,479,Alec P.
+No,Yes,Yes,Yes,21.0,No,No,No,Yes,No,Male,65-69,480,LYNN MARQUEZ
+No,No,No,Yes,27.0,No,No,No,Yes,No,Female,35-39,481,david arnold
+No,No,Yes,Yes,30.0,No,Yes,No,No,No,Female,60-64,482,Sarah Robinson
+No,No,No,Yes,31.0,Yes,No,No,No,No,Male,25-29,483,R. Strickland
+No,No,Yes,Yes,23.0,Yes,No,No,No,No,Male,65-69,484,JAMES KELLER
+No,Yes,No,Yes,28.0,No,No,No,No,No,Female,60-64,485,Andrew Rodgers
+No,Yes,No,Yes,18.0,Yes,No,No,Yes,No,Female,70-74,486,N. Martinez
+No,Yes,Yes,Yes,31.0,No,No,No,Yes,No,Female,75-79,487,Sherry Cherry
+No,Yes,Yes,Yes,32.0,Yes,No,No,No,No,Male,80+,488,Lindsey Garcia
+No,No,No,Yes,22.0,Yes,No,Yes,Yes,No,Male,50-54,489,JENNIFER HENDERSON
+No,No,No,Yes,29.0,Yes,No,No,No,No,Female,60-64,490,Michelle Andrews
+No,Yes,Yes,Yes,37.0,No,No,No,No,No,Female,60-64,491,Dawn Q. Baker
+No,No,Yes,Yes,20.0,No,No,No,Yes,No,Female,60-64,492,Shawn Cook
+No,No,No,Yes,26.0,Yes,Yes,No,Yes,No,Female,60-64,493,Russell Sharp
+Yes,Yes,Yes,Yes,24.0,Yes,No,No,Yes,No,Female,65-69,494,B. Newman
+No,No,Yes,Yes,29.0,No,No,No,Yes,Yes,Female,70-74,495,todd caldwell
+Yes,Yes,Yes,Yes,29.0,Yes,No,Yes,No,No,Male,75-79,496,Ryan Wright
+Yes,Yes,No,Yes,34.0,Yes,No,Yes,Yes,No,Female,65-69,497,David K. Archer
+No,No,Yes,Yes,35.0,Yes,No,No,No,No,Male,55-59,498,James Mcguire
+No,Yes,Yes,Yes,25.0,No,No,No,No,No,Female,65-69,499,Terri Boyd
+No,Yes,No,Yes,31.0,No,No,No,Yes,No,Male,65-69,500,Victoria Sims
+No,No,No,Yes,20.0,No,No,No,No,No,Female,45-49,501,Sheila J.
+Yes,Yes,No,Yes,33.0,No,No,Yes,Yes,No,Male,75-79,502,Paul Carroll
+No,Yes,Yes,Yes,25.0,Yes,No,No,No,Yes,Female,60-64,503,Beverly C. Jenkins
+Yes,Yes,No,Yes,24.0,No,No,No,No,No,Female,55-59,504,dr. young
+No,Yes,Yes,Yes,28.0,Yes,No,No,Yes,No,Female,75-79,505,Jacob Simpson
+Yes,Yes,Yes,Yes,39.0,No,No,No,Yes,No,Female,60-64,506,Danielle Griffin
+No,Yes,Yes,Yes,23.0,Yes,Yes,No,Yes,No,Female,80+,507,Gary Hall
+No,Yes,No,Yes,23.0,No,No,No,Yes,No,Female,55-59,508,AMANDA MUNOZ
+Yes,Yes,Yes,Yes,36.0,Yes,No,Yes,No,No,Male,75-79,509,Wesley White
+Yes,Yes,No,Yes,24.0,Yes,No,Yes,Yes,No,Male,65-69,510,adrian butler
+Yes,Yes,Yes,Yes,28.0,No,No,No,No,No,Female,70-74,511,R. Powell
+No,No,No,Yes,23.0,No,No,No,Yes,No,Female,80+,512,jenny cruz
+No,No,No,No,21.0,No,No,No,Yes,Yes,Female,65-69,513,Laura Smith
+No,Yes,Yes,Yes,23.0,Yes,No,No,No,Yes,Female,75-79,514,CARRIE THOMPSON
+Yes,Yes,Yes,Yes,30.0,No,No,No,No,No,Female,75-79,515,Daniel A. Meyer
+No,Yes,Yes,Yes,35.0,No,No,No,Yes,No,Female,60-64,516,Jennifer Walker
+Yes,No,Yes,Yes,30.0,No,No,No,Yes,No,Male,70-74,517,John Johnson
+No,Yes,No,Yes,24.0,Yes,No,No,Yes,No,Female,45-49,518,MICHAEL DONALDSON
+No,No,Yes,Yes,29.0,Yes,No,No,No,No,Male,65-69,519,Jo K. Phelps
+No,No,Yes,Yes,21.0,Yes,No,No,Yes,No,Male,80+,520,D. Stewart
+No,Yes,Yes,Yes,22.0,Yes,No,No,Yes,No,Female,65-69,521,Amanda Craig
+Yes,No,No,Yes,33.0,Yes,No,No,No,No,Female,75-79,522,Alexa J.
+Yes,Yes,Yes,Yes,27.0,Yes,No,No,No,No,Male,60-64,523,dawn berry
+No,No,No,Yes,23.0,Yes,No,No,Yes,No,Female,80+,524,Jacob Meza
+No,Yes,Yes,Yes,25.0,No,No,No,Yes,No,Male,50-54,525,natalie lee
+No,Yes,No,Yes,25.0,No,Yes,No,Yes,No,Female,70-74,526,Nancy D. Villegas
+Yes,Yes,Yes,Yes,27.0,No,No,Yes,Yes,No,Male,70-74,527,Paul Brown
+Yes,Yes,No,Yes,30.0,Yes,No,No,Yes,No,Male,65-69,528,P. Davis
+No,Yes,No,Yes,47.0,Yes,No,No,Yes,No,Male,35-39,529,Mariah Rice
+Yes,No,No,Yes,26.0,No,No,No,Yes,No,Female,60-64,530,M. Ferguson
+No,Yes,Yes,Yes,35.0,No,No,No,Yes,No,Female,70-74,531,Tara X. Welch
+No,No,No,Yes,22.0,No,No,No,Yes,No,Female,80+,532,April Johnson
+No,Yes,No,Yes,43.0,No,No,No,No,No,Female,65-69,533,Jo A. Clark
+No,Yes,No,Yes,29.0,No,No,No,Yes,No,Female,60-64,534,Cynthia Daniel
+No,No,No,Yes,36.0,Yes,No,No,Yes,No,Male,55-59,535,Allison Alvarez
+No,No,No,Yes,26.0,No,No,No,Yes,No,Female,55-59,536,KENNETH MOON
+Yes,Yes,Yes,Yes,26.0,No,No,No,Yes,No,Female,60-64,537,paula hunter
+No,Yes,No,Yes,28.0,No,No,Yes,Yes,No,Female,60-64,538,Erin Thomas
+Yes,Yes,Yes,Yes,36.0,Yes,No,No,Yes,No,Male,80+,539,EDWARD NGUYEN
+No,No,No,Yes,25.0,Yes,No,Yes,No,No,Male,80+,540,adam smith
+Yes,Yes,Yes,Yes,35.0,Yes,No,Yes,No,No,Male,60-64,541,tamara richardson
+Yes,Yes,Yes,Yes,32.0,Yes,No,Yes,Yes,No,Female,70-74,542,Toni Brooks
+No,Yes,No,Yes,36.0,No,No,No,Yes,No,Female,50-54,543,bradley thompson
+No,Yes,Yes,Yes,30.0,Yes,No,No,Yes,No,Male,55-59,544,Michael F. Black
+No,Yes,No,Yes,31.0,No,No,No,No,No,Male,70-74,545,Michael Weber
+No,No,Yes,Yes,31.0,No,No,Yes,Yes,No,Male,50-54,546,Christine Warren
+No,No,No,Yes,25.0,No,No,No,No,No,Female,55-59,547,kathleen cruz
+No,No,No,Yes,27.0,No,No,No,Yes,No,Female,70-74,548,Gregory S.
+No,No,Yes,Yes,32.0,Yes,No,No,Yes,No,Female,25-29,549,Casey D.
+No,No,No,Yes,42.0,No,No,No,No,No,Female,50-54,550,joel keith
+No,Yes,Yes,Yes,26.0,Yes,No,No,Yes,No,Female,55-59,551,Lauren F.
+No,Yes,Yes,Yes,24.0,No,No,Yes,Yes,No,Female,65-69,552,Amanda L.
+No,Yes,No,Yes,30.0,Yes,No,No,Yes,No,Male,70-74,553,jessica barr
+No,Yes,No,Yes,29.0,Yes,No,No,Yes,No,Female,70-74,554,Charlene Smith
+No,No,No,No,24.0,No,No,No,Yes,No,Female,80+,555,Gail U. Baker
+No,Yes,Yes,Yes,25.0,Yes,No,No,Yes,No,Male,60-64,556,Jessica I. Young
+Yes,Yes,Yes,Yes,42.0,No,No,Yes,Yes,No,Female,60-64,557,A. Rosario
+No,Yes,Yes,Yes,32.0,No,No,No,No,No,Female,75-79,558,C. Smith
+No,No,No,Yes,19.0,No,No,No,Yes,No,Female,75-79,559,Richard M.
+Yes,Yes,Yes,Yes,43.0,No,No,No,No,No,Female,50-54,560,Dr. T. Wolfe
+Yes,Yes,No,Yes,29.0,Yes,Yes,Yes,Yes,No,Female,65-69,561,zachary sanders
+Yes,Yes,Yes,Yes,30.0,No,No,No,Yes,No,Female,65-69,562,SAMANTHA MOSLEY
+Yes,Yes,No,Yes,25.0,No,No,No,Yes,No,Female,60-64,563,lynn lyons
+Yes,Yes,Yes,Yes,30.0,Yes,No,No,No,No,Male,65-69,564,Shelley Wade
+No,Yes,Yes,Yes,32.0,No,No,No,Yes,No,Female,70-74,565,EVAN MILES
+No,Yes,Yes,Yes,26.0,No,No,No,No,No,Female,80+,566,Susan L. Scott
+No,Yes,No,Yes,29.0,No,No,No,Yes,No,Female,60-64,567,Michael B.
+Yes,No,No,Yes,22.0,Yes,No,No,No,No,Male,80+,568,Robert Webb
+No,No,No,Yes,32.0,No,No,No,No,No,Female,50-54,569,Maxwell Smith
+Yes,Yes,Yes,Yes,32.0,No,No,No,Yes,No,Female,60-64,570,Tammy O.
+Yes,Yes,Yes,Yes,36.0,Yes,No,No,Yes,No,Female,65-69,571,Paul R.
+Yes,No,No,Yes,29.0,No,No,No,Yes,No,Female,55-59,572,denise hampton
+No,No,Yes,Yes,29.0,Yes,No,No,Yes,No,Female,65-69,573,Joyce Long
+No,No,No,Yes,31.0,No,No,No,Yes,No,Female,30-34,574,thomas ramirez
+No,Yes,No,Yes,26.0,No,No,No,Yes,No,Female,70-74,575,Janet H.
+No,No,No,Yes,30.0,No,No,No,Yes,No,Female,60-64,576,RICHARD GRANT
+No,No,No,Yes,30.0,Yes,No,No,Yes,No,Male,45-49,577,ANTHONY WILSON
+No,No,No,Yes,26.0,Yes,No,No,Yes,No,Male,60-64,578,Holly N.
+No,No,Yes,Yes,23.0,Yes,No,No,Yes,No,Female,40-44,579,Rachel Smith
+No,Yes,Yes,Yes,39.0,No,No,No,Yes,No,Female,80+,580,Zoe L. Wilkinson
+No,No,Yes,Yes,25.0,No,No,No,Yes,No,Female,80+,581,DARRELL DOMINGUEZ
+No,Yes,Yes,Yes,28.0,No,No,No,No,No,Female,55-59,582,Rodney Davis
+Yes,No,No,Yes,20.0,Yes,No,Yes,No,No,Male,80+,583,Jeremiah Nguyen
+Yes,No,Yes,Yes,29.0,Yes,No,No,Yes,No,Female,70-74,584,Amanda Johnson
+No,No,No,Yes,42.0,Yes,No,No,Yes,No,Female,25-29,585,Holly Jones
+No,Yes,Yes,Yes,31.0,Yes,No,No,No,No,Female,60-64,586,Timothy Howard
+No,No,No,Yes,27.0,Yes,No,No,Yes,No,Male,65-69,587,M. Wright
+No,No,No,Yes,24.0,No,No,No,Yes,No,Female,45-49,588,DUSTIN RIOS
+No,Yes,No,Yes,39.0,Yes,No,No,No,No,Female,65-69,589,melissa ingram
+No,No,Yes,Yes,32.0,No,No,No,Yes,No,Male,60-64,590,James M. Cole
+No,No,Yes,Yes,38.0,Yes,No,No,No,No,Female,70-74,591,Christopher C. Smith
+Yes,No,Yes,Yes,27.0,No,No,No,Yes,No,Female,75-79,592,adam sanchez
+No,Yes,No,Yes,33.0,Yes,No,No,Yes,No,Female,50-54,593,Carlos Gonzalez
+Yes,Yes,No,Yes,29.0,Yes,No,No,Yes,No,Male,70-74,594,STACEY HOUSTON
+No,Yes,Yes,Yes,27.0,No,No,No,No,No,Female,80+,595,Karen P. Mckee
+No,Yes,No,Yes,27.0,Yes,No,No,No,No,Female,60-64,596,Charles H.
+Yes,No,No,Yes,34.0,No,No,No,Yes,No,Female,60-64,597,Emily Jacobs
+No,Yes,Yes,Yes,22.0,No,No,No,Yes,No,Female,70-74,598,Jordan N.
+No,No,No,No,20.0,Yes,No,No,No,No,Female,50-54,599,Lee E. Carlson
+No,Yes,No,Yes,26.0,No,No,No,No,No,Female,70-74,600,D. Thompson
+No,No,No,Yes,25.0,Yes,No,No,Yes,No,Male,80+,601,DAVID DUNN
+No,Yes,No,Yes,29.0,No,Yes,Yes,Yes,No,Female,80+,602,daniel jr.
+No,No,Yes,Yes,39.0,Yes,No,No,No,Yes,Female,70-74,603,ryan iii
+No,Yes,Yes,Yes,24.0,Yes,No,No,Yes,No,Female,50-54,604,JULIE SCHMIDT
+No,Yes,Yes,Yes,33.0,Yes,No,No,Yes,No,Female,80+,605,Jerry Espinoza
+No,Yes,Yes,Yes,25.0,No,No,No,No,No,Female,80+,606,J. MD
+Yes,Yes,No,Yes,27.0,No,Yes,Yes,No,No,Female,75-79,607,C. Carpenter
+No,Yes,Yes,Yes,30.0,No,No,Yes,Yes,No,Female,75-79,608,ANTONIO PEARSON
+No,No,No,Yes,26.0,No,No,No,Yes,No,Female,55-59,609,Courtney C.
+No,No,No,Yes,34.0,No,No,No,Yes,No,Female,35-39,610,Lisa Harris
+No,Yes,No,Yes,32.0,Yes,No,No,Yes,No,Female,60-64,611,Daisy Hicks
+No,No,Yes,Yes,30.0,No,No,No,Yes,No,Female,50-54,612,sherry tapia
+Yes,Yes,Yes,Yes,28.0,No,Yes,Yes,Yes,No,Female,80+,613,SONYA BARRON
+No,No,No,No,32.0,No,No,No,Yes,No,Female,25-29,614,Mark W.
+No,No,No,Yes,45.0,No,No,No,Yes,No,Female,30-34,615,Dennis Hill
+No,Yes,Yes,Yes,31.0,No,No,No,Yes,No,Male,80+,616,Michael B.
+No,No,No,Yes,41.0,No,No,No,Yes,No,Female,70-74,617,Christopher Thompson
+No,No,No,Yes,31.0,No,No,No,Yes,No,Female,55-59,618,Randy Fuentes
+Yes,Yes,Yes,Yes,32.0,Yes,No,No,No,No,Male,70-74,619,Paul Cole
+No,Yes,No,Yes,27.0,No,No,No,Yes,No,Male,65-69,620,L. Shaw
+Yes,Yes,No,Yes,24.0,No,No,No,Yes,No,Female,70-74,621,MICHAELA ELLIOTT
+Yes,Yes,Yes,Yes,37.0,No,Yes,Yes,Yes,No,Female,55-59,622,ZOE JOHNSON
+No,No,No,Yes,27.0,No,No,No,No,No,Female,30-34,623,Eric Allen
+No,Yes,Yes,Yes,32.0,No,No,No,No,No,Female,60-64,624,Anita Larson
+No,No,No,Yes,26.0,No,No,No,Yes,No,Male,50-54,625,Jeffrey Vasquez
+No,Yes,No,Yes,38.0,No,No,No,Yes,No,Female,70-74,626,heather mclaughlin
+No,Yes,Yes,Yes,33.0,No,No,No,Yes,No,Female,55-59,627,Joseph Knox
+No,Yes,No,Yes,23.0,Yes,No,No,No,Yes,Male,60-64,628,andrew hale
+No,Yes,No,Yes,32.0,No,No,No,No,No,Male,40-44,629,DAMON MORROW
+No,Yes,Yes,Yes,25.0,Yes,No,No,Yes,No,Male,65-69,630,Adam Vargas
+No,No,No,Yes,22.0,Yes,No,No,Yes,No,Male,30-34,631,C. White
+No,Yes,Yes,Yes,34.0,No,No,No,No,No,Female,75-79,632,GABRIEL BEASLEY
+Yes,Yes,No,Yes,30.0,No,No,No,No,No,Female,65-69,633,SHAWN GONZALEZ
+No,No,No,Yes,29.0,Yes,No,No,Yes,No,Male,65-69,634,Gabriel Weaver
+No,Yes,No,Yes,41.0,No,No,No,Yes,No,Female,50-54,635,Samuel C. Singh
+No,Yes,Yes,Yes,32.0,No,No,No,Yes,No,Male,60-64,636,marissa decker
+Yes,Yes,Yes,Yes,29.0,No,No,No,Yes,No,Female,70-74,637,Grace Montgomery
+No,Yes,Yes,Yes,25.0,Yes,No,No,No,No,Male,70-74,638,linda houston
+No,Yes,No,Yes,25.0,Yes,No,No,Yes,No,Female,70-74,639,Dustin Sharp
+No,No,Yes,Yes,25.0,No,No,No,Yes,No,Female,75-79,640,Samuel Coleman
+No,No,No,Yes,35.0,No,No,No,Yes,No,Male,18-24,641,thomas lee
+No,Yes,Yes,Yes,35.0,No,No,No,Yes,No,Female,70-74,642,SHIRLEY LANE
+No,Yes,No,Yes,24.0,No,Yes,No,No,No,Female,80+,643,William Q. Moore
+Yes,No,Yes,Yes,33.0,No,No,No,Yes,No,Male,60-64,644,PATRICIA MARTIN
+No,Yes,Yes,Yes,28.0,No,No,No,No,No,Female,60-64,645,Mary Watson
+Yes,Yes,Yes,Yes,26.0,No,No,No,Yes,No,Female,60-64,646,J. Dodson
+No,Yes,Yes,Yes,28.0,No,No,Yes,No,No,Female,45-49,647,riley wilcox
+Yes,Yes,No,Yes,30.0,No,No,No,Yes,No,Female,70-74,648,Dr. Johnson
+No,Yes,No,Yes,26.0,No,No,No,Yes,No,Female,55-59,649,OLIVIA JONES
+No,Yes,Yes,Yes,27.0,Yes,No,No,Yes,No,Male,80+,650,CHRISTINE BENSON
